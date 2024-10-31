@@ -1,0 +1,9 @@
+Loading input gtf file...Done.
+Loading input merged Stringtie gtf file...Done.
+Found 12989 potential exon extensions. Will now check for collision.
+Found 999 exon extensions which collide.
+Among them 954 exon extensions overlap a larger region.
+Therefore only 12477 exons will be extended.
+Trying to add new exons in 3'
+Found 23 transcripts to extend.
+Added 23 exons.
